@@ -20,7 +20,7 @@ Para obtener los tweets utilizamos la biblioteca [**tweepy**](http://www.tweepy.
 ![Paso 4](img/tw_explicacion3.png)
 5- Ya tienes tu Keys and Acces Token. Ahora ponelos en el archivo *streaming.conf*. 
 
-Images by @martonKarsai, many thanks!
+Images by [@martonKarsai](https://twitter.com/MartonKarsai), many thanks!
 
 ## Como utilizarlo
 
