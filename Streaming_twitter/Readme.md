@@ -12,10 +12,15 @@ Para obtener los tweets utilizamos la biblioteca [**tweepy**](http://www.tweepy.
 ## Obtener las credenciales
 
 1- Ir a https://apps.twitter.com/ (logeate si no lo estas) y clickea en *Crear nueva App*.  
-2- Completar el *Nombre de la aplicación*, *Descripción* y si *sitio web*. El *URL callback* lo podes dejar en blanco.  
-3- Acepta los TOS y ya creastes tu aplicación.  
-4- En la tab *Keys and Acces Tokens* hace click en crear nuevo *Token*.  
+2- Completar el *Nombre de la aplicación*, *Descripción* y si *sitio web*. El *URL callback* lo podes dejar en blanco.
+![Paso 2](img/tw_explicacion1.png)
+3- Acepta los TOS y ya creastes tu aplicación.
+![Paso 3](img/tw_explicacion2.png)
+4- En la tab *Keys and Acces Tokens* hace click en crear nuevo *Token*.
+![Paso 4](img/tw_explicacion3.png)
 5- Ya tienes tu Keys and Acces Token. Ahora ponelos en el archivo *streaming.conf*. 
+
+Images by @martonKarsai, many thanks!
 
 ## Como utilizarlo
 
