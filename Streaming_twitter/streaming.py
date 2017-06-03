@@ -69,7 +69,7 @@ class MyStreamListener(StreamListener):
         """
         print("Error code: {0}".format(status_code))
         print("For more information on the error code: https://dev.twitter.com/overview/api/response-codes")
-        return False
+        return True
 
 
 # Parser
